@@ -1,5 +1,6 @@
 # 💫 About Me:
-💻Fullstack Developer
+Hi, i am Rodrigo Spano.
+  💻Fullstack Developer with React and NodeJs 🖤
 
 
 ## 🌐 Socials:
@@ -13,6 +14,3 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoSpano&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=RodrigoSpano&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
