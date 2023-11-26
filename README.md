@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-Hi there! I'm Rodrigo Spano, a fullstack developer with experience in technologies such as React, Express, MongoDB, PostgreSQL, JavaScript, TypeScript, and many others.
+Hi there! I'm Rodrigo Spano, a Fullstack Software Developer with experience in technologies such as React, Express, MongoDB, PostgreSQL, JavaScript, TypeScript, and many others.
 
 I have always been passionate about the world of technology and I love staying up-to-date with the latest trends and tools. My professional goal is to be part of a development team where I can continue to grow professionally and contribute my skills and knowledge.
 
