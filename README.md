@@ -1,7 +1,8 @@
+## Hi There!🧉
+I'm Rodri, a Software Engineer based on Argentina.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rodrigospano) 
+Currently i am working as DevOps Engineer, but my true love is coding... so you'll find me building all sort of things over here!
 
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=RodrigoSpano&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoSpano&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+Outside of code, i'm a huge fan of Football and F1, and enjoy listening to music or reading books while drinking mate🧉 (I mean, I'm Argentinian after all).
+
+BTW: I barely drink coffe (ง'̀-'́)ง
