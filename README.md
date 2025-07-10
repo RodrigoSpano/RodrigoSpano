@@ -5,4 +5,4 @@ Currently i am working as DevOps Engineer, but my true love is coding... so you'
 
 Outside of code, i'm a huge fan of Football and F1. Also enjoy listening to music or reading books while drinking mate🧉 (I mean, I'm Argentinian after all).
 
-BTW: I barely drink coffe (ง'̀-'́)ง
+BTW: I barely drink coffee (ง'̀-'́)ง
