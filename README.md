@@ -1,5 +1,5 @@
 ## Hi There!🧉
-I'm Rodri, a Software Engineer based on Argentina.
+I'm Rodri, a Software Engineer based on Argentina 🇦🇷
 
 Currently i am working as DevOps Engineer, but my true love is coding... so you'll find me building all sort of things over here!
 
